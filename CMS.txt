@@ -1,6 +1,6 @@
 _____________________________________________________________________________   CMS   _____________________________________________________________________________
 
---------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -> Qu’est-ce qu’un CMS ?
 
@@ -12,7 +12,7 @@ Un site web qui ne nécessite pas de mises à jour fréquentes ou de nouveau con
 Mais pour les entreprises qui ont plusieurs utilisateurs ou qui publient régulièrement de nouveaux contenus sur leur site internet, un 
 éditeur est nécessaire.
 En plus d’être plus facile à utiliser, un CMS permet de gagner en réactivité en diffusant du contenu très rapidement.
---------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -> Voici les fonctionnalités principales d’un système de management de contenu :
 
@@ -21,7 +21,7 @@ En plus d’être plus facile à utiliser, un CMS permet de gagner en réactivit
 - Création de contenu avec une possibilité d’examen et d’approbation du contenu.
 - Gestion de plusieurs langues.
 - Capacité à prendre en charge le contenu de divers appareils (tels que les tablettes ou les smartphones).
---------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -> WordPress, le CMS le plus célèbre et le plus puissant.
 
