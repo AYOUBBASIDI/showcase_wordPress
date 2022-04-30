@@ -1,10 +1,6 @@
 # showcase_wordPress
 
 
-# ___________________________________________________________________________   CMS   _____________________________________________________________________________
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 # Qu’est-ce qu’un CMS ?
 
 Un CMS est un « Content Management System » ou système de gestion de contenu en français. Un CMS sert à faciliter l’administration 
@@ -15,7 +11,7 @@ Un site web qui ne nécessite pas de mises à jour fréquentes ou de nouveau con
 Mais pour les entreprises qui ont plusieurs utilisateurs ou qui publient régulièrement de nouveaux contenus sur leur site internet, un 
 éditeur est nécessaire.
 En plus d’être plus facile à utiliser, un CMS permet de gagner en réactivité en diffusant du contenu très rapidement.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 # Voici les fonctionnalités principales d’un système de management de contenu :
 
@@ -24,7 +20,7 @@ En plus d’être plus facile à utiliser, un CMS permet de gagner en réactivit
 - Création de contenu avec une possibilité d’examen et d’approbation du contenu.
 - Gestion de plusieurs langues.
 - Capacité à prendre en charge le contenu de divers appareils (tels que les tablettes ou les smartphones).
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 # WordPress, le CMS le plus célèbre et le plus puissant.
 
@@ -33,7 +29,7 @@ Open-Source, WordPress fait partie des CMS les plus utilisés par les particulie
 - Une polyvalence à toute épreuve : blog d’entreprise, site corporate, site e-commerce, tout est envisageable.
 - Une communauté active.
 - Une architecture idéale et simple à améliorer pour le référencement naturel SEO.
-____________________________________________________________________________________________________________________________________________________________________
+
 
 ## Comment installer WordPress : le guide complet, étape par étape
 
