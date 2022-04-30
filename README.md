@@ -1,7 +1,7 @@
 # showcase_wordPress
 
 
-# Qu’est-ce qu’un CMS ?
+## Qu’est-ce qu’un CMS ?
 
 Un CMS est un « Content Management System » ou système de gestion de contenu en français. Un CMS sert à faciliter l’administration 
 d’un site web.
@@ -13,7 +13,7 @@ Mais pour les entreprises qui ont plusieurs utilisateurs ou qui publient réguli
 En plus d’être plus facile à utiliser, un CMS permet de gagner en réactivité en diffusant du contenu très rapidement.
 
 
-# Voici les fonctionnalités principales d’un système de management de contenu :
+## Voici les fonctionnalités principales d’un système de management de contenu :
 
 - Bibliothèque pour gérer les images, vidéos, pdf, etc.
 - Authentification des utilisateurs avec la prise en charge de rôles multiples et l’attribution de permissions.
@@ -22,7 +22,7 @@ En plus d’être plus facile à utiliser, un CMS permet de gagner en réactivit
 - Capacité à prendre en charge le contenu de divers appareils (tels que les tablettes ou les smartphones).
 
 
-# WordPress, le CMS le plus célèbre et le plus puissant.
+## WordPress, le CMS le plus célèbre et le plus puissant.
 
 Open-Source, WordPress fait partie des CMS les plus utilisés par les particuliers et les professionnels. Parmi ses principaux atouts figurent :
 - Des templates et plugins pour tout faire.
