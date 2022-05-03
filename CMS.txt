@@ -1,8 +1,12 @@
 _____________________________________________________________________________   CMS   _____________________________________________________________________________
 
+<<<<<<< HEAD
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+=======
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>>>>>>> 43548586e516666161688db2c379e8936d74b229
 
--> Qu’est-ce qu’un CMS ?
+> Qu’est-ce qu’un CMS ?
 
 Un CMS est un « Content Management System » ou système de gestion de contenu en français. Un CMS sert à faciliter l’administration 
 d’un site web.
@@ -12,18 +16,26 @@ Un site web qui ne nécessite pas de mises à jour fréquentes ou de nouveau con
 Mais pour les entreprises qui ont plusieurs utilisateurs ou qui publient régulièrement de nouveaux contenus sur leur site internet, un 
 éditeur est nécessaire.
 En plus d’être plus facile à utiliser, un CMS permet de gagner en réactivité en diffusant du contenu très rapidement.
+<<<<<<< HEAD
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+=======
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>>>>>>> 43548586e516666161688db2c379e8936d74b229
 
--> Voici les fonctionnalités principales d’un système de management de contenu :
+> Voici les fonctionnalités principales d’un système de management de contenu :
 
 - Bibliothèque pour gérer les images, vidéos, pdf, etc.
 - Authentification des utilisateurs avec la prise en charge de rôles multiples et l’attribution de permissions.
 - Création de contenu avec une possibilité d’examen et d’approbation du contenu.
 - Gestion de plusieurs langues.
 - Capacité à prendre en charge le contenu de divers appareils (tels que les tablettes ou les smartphones).
+<<<<<<< HEAD
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+=======
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>>>>>>> 43548586e516666161688db2c379e8936d74b229
 
--> WordPress, le CMS le plus célèbre et le plus puissant.
+> WordPress, le CMS le plus célèbre et le plus puissant.
 
 Open-Source, WordPress fait partie des CMS les plus utilisés par les particuliers et les professionnels. Parmi ses principaux atouts figurent :
 - Des templates et plugins pour tout faire.
