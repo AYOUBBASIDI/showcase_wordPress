@@ -58,7 +58,7 @@ Suivez les instructions à l’écran et entrez le nom de la base de données qu
 
 
 Template : http://localhost/wordpress/wp-admin/themes.php?page=starter-templates&ci=6
-![image](https://user-images.githubusercontent.com/93977152/166079553-9071ef4c-ea7f-4076-a217-3e1030900b83.png)
+![image](https://files.fm/ayoubbsd4/u/exm4m8wwj#;/view/Home - Amazon and 7 more pages - Personal - Microsoft​ Edge 5_14_2022 2_29_22 PM.png)
 
 
 
