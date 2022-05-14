@@ -57,8 +57,6 @@ Suivez les instructions à l’écran et entrez le nom de la base de données qu
 ![xampp09_en](https://user-images.githubusercontent.com/93977152/166075334-efc1c2b6-17fe-496e-a2dd-d6a16ee5223d.png)
 
 
-Template : http://localhost/wordpress/wp-admin/themes.php?page=starter-templates&ci=6
-![image](https://files.fm/ayoubbsd4/u/exm4m8wwj#;/view/Home - Amazon and 7 more pages - Personal - Microsoft​ Edge 5_14_2022 2_29_22 PM.png)
 
 
 
